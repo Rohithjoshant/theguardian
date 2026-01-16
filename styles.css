@@ -291,7 +291,7 @@ a {
   background: linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0) 100%);
   color: #fff;
   pointer-events: none;
-  border-top: 1px solid rgba(255,255,255,0.1);
+  border-top: none; /* REMOVED as requested */
 }
 
 .caption-number {
@@ -328,13 +328,13 @@ a {
 .analysis-section {
   padding: 60px 20px;
   background-color: var(--c-bg);
-  border-top: 1px solid var(--c-border);
+  border-top: none; /* REMOVED as requested */
 }
 
 .section-header {
   max-width: var(--max-width);
   margin: 0 auto 40px;
-  border-top: 1px solid var(--c-ink); /* Strong black line for section start */
+  border-top: none; /* REMOVED as requested (was c-ink strong line) */
   padding-top: 12px;
 }
 
@@ -343,7 +343,7 @@ a {
   font-size: 32px;
   font-weight: 700;
   margin: 0;
-  color: var(--c-ink);
+  color: var(--c-brand); /* Changed to blue to separate if no line exists */
 }
 
 .analysis-grid {

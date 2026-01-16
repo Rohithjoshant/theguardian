@@ -4,42 +4,42 @@
 const panelsData = [
   {
     id: "5.1",
-    img: "final%20project%206.png",
+    img: "final%20project%201.png",
     title: "The Empty Stage and Performed Authority",
     context: "UN / Netanyahu",
     desc: "Emptiness as atmosphere: harsh lighting, a lone figure, and a podium that stays authoritative even when engagement fractures."
   },
   {
     id: "5.2",
-    img: "final%20project%205.png",
+    img: "final%20project%202.png",
     title: "Media Control and the Puppet Stage",
     context: "Trump / Media",
     desc: "Symbolic interpretation: how repeated messaging can feel guided and staged, swinging between entertainment and crisis."
   },
   {
     id: "5.3",
-    img: "final%20project%204.png",
+    img: "final%20project%203.png",
     title: "Voting, Approval, and the Performance of Participation",
     context: "Mamdani",
     desc: "Approval staged through simplified symbols. Checkmarks compress complex decisions into visible legitimacy."
   },
   {
     id: "5.4",
-    img: "final%20project%203.png",
+    img: "final%20project%204.png",
     title: "The Veto and Distant Power",
     context: "UN / Gaza",
     desc: "Procedure above, destruction below. A raised hand under “VETO” becomes a small gesture with huge consequences."
   },
   {
     id: "5.5",
-    img: "final%20project%202.png",
+    img: "final%20project%205.png",
     title: "Promises, Redaction, and Performed Transparency",
     context: "Epstein Files",
     desc: "Promise versus access: information exists, but visibility is controlled through redaction and restriction."
   },
   {
     id: "5.6",
-    img: "final%20project%201.png",
+    img: "final%20project%206.png",
     title: "Removal from the Stage and Loss of Authority",
     context: "Maduro",
     desc: "The scene leaves the public stage for a controlled interior—surveillance, containment, and unsettling normalcy."
